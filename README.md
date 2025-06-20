@@ -1,5 +1,5 @@
 # MotS_Docking_Project
-Ligand Docking Project – MotS (PDB ID: 9LJL)
+Ligand Docking – MotS (PDB ID: 9LJL)
 
 This project presents molecular docking analysis of phytochemicals and antibiotics with the MotS protein from *Bacillus subtilis*.
 
